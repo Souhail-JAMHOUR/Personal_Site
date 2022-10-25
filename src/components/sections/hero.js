@@ -60,12 +60,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Souhail Jamhour.</h2>;
-  const three = <h3 className="big-heading">I am a Music Producer and software engineering student.</h3>;
+  const three = <h3 className="big-heading">I am a Software engineering student and Music Producer.</h3>;
   const four = (
     <>
       <p>
-        I am a software engineering student, currently at my 4th year.
-        I am focused on learning concepts and data structure in order to develop my problem solving skills.
+        I am a software engineering student, currently at my 4th year, focused on learning concepts and data structure in order to develop my problem solving skills.
+      </p>
+      <p> 
+        I am also good at making music, as i ve been doing so for 13years now.
       </p>
     </>
   );
@@ -75,7 +77,7 @@ const Hero = () => {
       href=""
       target="_blank"
       rel="noreferrer">
-      Check out my Work.
+      Working on Projects to add soon...
     </a>
   );
 
