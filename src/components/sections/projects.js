@@ -264,7 +264,7 @@ const Projects = () => {
   };
 
   return (
-    <StyledProjectsSection>
+    <StyledProjectsSection id="MiniProjects">
       <h2 ref={revealTitle}>Simple Project I built.</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
