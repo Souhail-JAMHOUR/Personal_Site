@@ -15,6 +15,10 @@ module.exports = {
     //   url: 'https://twitter.com/bchiang7',
     // },
     {
+      name: 'Codecademy',
+      url: 'https://www.codecademy.com/profiles/s.jamhour',
+    },
+    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/souhailjamhour',
     },

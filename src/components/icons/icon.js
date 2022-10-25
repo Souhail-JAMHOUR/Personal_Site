@@ -16,9 +16,15 @@ import {
   IconStar,
   IconTwitter,
 } from '@components/icons';
+import IconLeetcode from './leetcode'
+import IconCodecademy from './codecademy'
 
 const Icon = ({ name }) => {
   switch (name) {
+    case 'Codecademy':
+      return <IconCodecademy/>
+    case 'Leetcode':
+      return <IconLeetcode/>
     case 'AppStore':
       return <IconAppStore />;
     case 'Bookmark':

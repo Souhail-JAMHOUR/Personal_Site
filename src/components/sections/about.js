@@ -135,7 +135,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Souhail, a software engenieering student from Morocco, and i am good at music too !
+              Hello! My name is Souhail, a software engenieering student from Morocco.
+              I am interested in a lot of tech topics, as i am interested in making people's lives easier.
             </p>
 
             {/* <p> */}
