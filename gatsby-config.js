@@ -5,8 +5,8 @@ module.exports = {
     title: 'Souhail Jamhour',
     description:
       'Souhail is a full stack developper (and a music producer ) based in Oujda,Morocco',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: './static/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://souhailjamhour.netlify.app/', // No trailing slash allowed!
+    image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
   plugins: [
