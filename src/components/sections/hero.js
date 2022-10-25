@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Souhail Jamhour.</h2>;
-  const three = <h3 className="big-heading"></h3>;
+  const three = <h3 className="big-heading">I am a Music Producer and software engineering student.</h3>;
   const four = (
     <>
       <p>
@@ -69,17 +69,17 @@ const Hero = () => {
       </p>
     </>
   );
-  // const five = (
-  //   <a
-  //     className="email-link"
-  //     href="https://www.newline.co/courses/build-a-spotify-connected-app"
-  //     target="_blank"
-  //     rel="noreferrer">
-  //     Check out my course!
-  //   </a>
-  // );
+  const five = (
+    <a
+      className="email-link"
+      href=""
+      target="_blank"
+      rel="noreferrer">
+      Check out my Work.
+    </a>
+  );
 
-  const items = [one, two, three, four];
+  const items = [one, two, three, four, five];
 
   return (
     <StyledHeroSection>

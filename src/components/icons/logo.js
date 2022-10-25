@@ -5,7 +5,7 @@ const IconLogo = () => (
     <title>Logo</title>
     <g transform="translate(-8.000000, -2.000000)">
       <g transform="translate(11.000000, 5.000000)">
-        <text text-anchor="start" font-family="Calibre,system,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif" font-size="60" y="62" x="21" strokewidth="4" stroke="#64FFDA" fill="#64FFDA">S</text>
+        <text textAnchor="start" fontFamily="Calibre" fontSize="60" y="62" x="21" strokeWidth="4" stroke="#64FFDA" fill="#64FFDA">S</text>
         <polygon
           id="Shape"
           stroke="currentColor"
