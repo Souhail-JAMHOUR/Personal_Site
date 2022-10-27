@@ -11,7 +11,7 @@ module.exports = {
     //   url: 'https://www.instagram.com/bchiang7',
     // },
     // {
-    //   name: 'Twitter',
+    //   name: 'Leetcode',
     //   url: 'https://twitter.com/bchiang7',
     // },
     {
@@ -39,7 +39,7 @@ module.exports = {
     },
     {
       name: 'Projects',
-      url: '/#MiniProjects',
+      url: '/#MiniProjects', // change to #projects after adding featured
     },
     {
       name: 'Contact',

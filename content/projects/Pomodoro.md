@@ -11,3 +11,4 @@ showInProjects: true
 ---
 
 This was my initiation for GUI, Pomodoro technique is time management method that help increase productivity.
+Pomodoro consist of sessions: Focus/Breaks.
