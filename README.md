@@ -2,10 +2,10 @@
   <img alt="Logo" src="/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  gkassym.netlify.com
+  souhailjamhour.netlify.com
 </h1>
 <p align="center">
-  The website <a href="https://gkassym.netlify.com" target="_blank">gkassym.netlify.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The website <a href="https://souhailjamhour.netlify.com" target="_blank">souhailjamhour.netlify.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
