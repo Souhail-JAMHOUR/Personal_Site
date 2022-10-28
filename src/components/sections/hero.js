@@ -65,8 +65,6 @@ const Hero = () => {
     <>
       <p>
         I am a software engineering student, currently at my 4th year, focused on learning concepts and data structure in order to develop my problem solving skills.
-      </p>
-      <p>
         I am also good at making music, as i ve been doing so for 13years now.
       </p>
     </>
