@@ -5,7 +5,7 @@
   souhailjamhour.netlify.app
 </h1>
 <p align="center">
-  The website <a href="https://souhailjamhour.netlify.app" target="_blank">souhailjamhour.netlify.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The website <a href="https://souhailjamhour.netlify.app" target="_blank">souhailjamhour.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
