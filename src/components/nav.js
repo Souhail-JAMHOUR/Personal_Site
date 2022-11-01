@@ -100,7 +100,7 @@ const StyledLinks = styled.div`
     margin: 0;
     list-style: none;
 
-    li {
+  li {
       margin: 0 5px;
       position: relative;
       counter-increment: item 1;
